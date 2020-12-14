@@ -1,0 +1,62 @@
+
+.font_weight_bold { font-weight: bold; }
+
+.font_weight_200 { font-weight: 200; }
+.font_weight_300 { font-weight: 300; }
+.font_weight_400 { font-weight: 400; }
+.font_weight_600 { font-weight: 600; }
+.font_weight_700 { font-weight: 700; }
+.font_weight_800 { font-weight: 800; }
+
+.font_size_36 { font-size: 36pt; }
+.font_size_30 { font-size: 30pt; }
+.font_size_26 { font-size: 26pt; }
+.font_size_24 { font-size: 24pt; }
+.font_size_20 { font-size: 20pt; }
+.font_size_18 { font-size: 18pt; }
+.font_size_16 { font-size: 16pt; }
+.font_size_12 { font-size: 12pt; }
+.font_size_10 { font-size: 10pt; }
+.font_size_9  { font-size:  9pt; }
+.font_size_8  { font-size:  8pt; }
+
+.color_main {
+
+  stroke: #1B3558;
+  fill: #1B3558;
+  color: #1B3558;
+}
+
+.color_total_cases {
+
+  stroke: #1B3558;
+  fill: #1B3558;  
+  color: #1B3558;
+}
+
+.color_new_cases {
+
+  stroke: #5d99c6;
+  fill: #5d99c6;   
+  color: #5d99c6;
+}
+
+.color_total_deaths {
+
+  stroke: #c41c00;
+  fill: #c41c00;  
+  color: #c41c00;
+}
+
+.color_new_deaths {
+
+  stroke: #ff5730;
+  fill: #ff5730;  
+  color: #ff5730; 
+}
+
+.text_anchor_middle {
+
+  text-anchor: middle;
+}
+
